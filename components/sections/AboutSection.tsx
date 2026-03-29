@@ -47,7 +47,7 @@ export default function AboutSection() {
             className="text-base max-w-xl mx-auto leading-relaxed"
             style={{ color: "#B8AD9E" }}
           >
-            Fullstack Developer với hơn 3 năm xây dựng các ứng dụng web thực tế
+            Fullstack Developer với hơn 4 năm xây dựng các ứng dụng web thực tế
             — từ SaaS, thương mại điện tử đến hệ thống doanh nghiệp quy mô lớn.
           </p>
         </div>
